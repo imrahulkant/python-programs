@@ -1,6 +1,6 @@
 # 02 Random Password Generator
 
- This Python Program was made using Python Library functions like 'string' & 'random'.
+ This Python Program was made using Python Library functions like `string` & 'random'.
 
 * `string.ascii_letters`
 
