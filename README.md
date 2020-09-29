@@ -3,10 +3,10 @@
 
 This is my collection of Python Programs.
 
-01 Hello World
+* **Hello World**
 
-02 Random Password Generator
+* **Random Password Generator**
 
-03 Simple if else Dictionary
+* **Simple if else Dictionary**
 
 
