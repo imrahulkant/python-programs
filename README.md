@@ -12,3 +12,5 @@ This is my collection of Python Programs.
 * **Number Gussing Game**
 
 * **Number to Word Converter**
+
+* **Rock Paper and Scissors**
