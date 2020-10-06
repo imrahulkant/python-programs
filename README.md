@@ -9,6 +9,6 @@ This is my collection of Python Programs.
 
 * **Simple if else Dictionary**
 
-* **Simple if else Dictionary**
+* **Number Gussing Game**
 
-* **Simple if else Dictionary**
+* **Number to Word Converter**
